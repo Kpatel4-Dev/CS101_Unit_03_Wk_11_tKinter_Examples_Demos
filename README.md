@@ -15,6 +15,3 @@ These examples will help you:
 - ✅ Organize layout with frames and grid
 - ✅ Build interactive mini-apps
 
----
-
-## 📂 Folder Structure
